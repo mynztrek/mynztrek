@@ -24,10 +24,12 @@ If your page lives under `http://username.github.com/sitename` your config.yml l
     exclude:
     - .gitignore
     - README.md
-    not that, safety first
+    
     
     
 # Use Prose
+not that, safety first
+
 
 Once your site is up you can start managing it with [Prose](http://prose.io). Follow the instructions [here](http://prose.io/help/getting-started.html).
 
