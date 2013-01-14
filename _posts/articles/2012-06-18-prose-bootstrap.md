@@ -24,7 +24,7 @@ If your page lives under `http://username.github.com/sitename` your config.yml l
     exclude:
     - .gitignore
     - README.md
-    not that
+    not that, safety first
     
     
 # Use Prose
